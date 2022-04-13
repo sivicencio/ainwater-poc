@@ -15,7 +15,7 @@ const COORDINATES_IN_PROPORTIONS = [
     endY: 160 / ORIGINAL_PLANT_SIZE.height,
   },
   {
-    slug: 'diagrama',
+    slug: 'descarga',
     startX: 1106 / ORIGINAL_PLANT_SIZE.width,
     startY: 266 / ORIGINAL_PLANT_SIZE.height,
     endX: 1200 / ORIGINAL_PLANT_SIZE.width,
