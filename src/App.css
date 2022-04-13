@@ -3,18 +3,23 @@ h1 {
 }
 
 .App {
-  background-color: #282c34;
+  background-color: #26272E;
   color: white;
-  min-height: 100vh;
+  padding: 0 10%;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-.stage {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+}
+
+.plant-diagram {
+  width: 100%;
+  height: auto;
 }
